@@ -246,7 +246,7 @@ section {
     position: relative;
     border-radius: 4px;
     color: #000000;
-    background: #fff;
+    background: rgb(0 0 0 / 50%);
     box-shadow: 0 10px 30px 0 rgba(0, 0, 0, 0.2);
 }
 
@@ -287,8 +287,8 @@ section {
 }
 
 .pricing .btn-white {
-    background: #fff;
-    border: 2px solid #f1f1f1;
+    background: #6c757d;
+    border: 2px solid #9da6ad;
     border-radius: 4px;
     box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.1);
 }
