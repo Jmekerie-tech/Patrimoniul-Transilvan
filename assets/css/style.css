@@ -793,7 +793,7 @@ section {
     right: 0;
     left: 0;
     bottom: 0;
-    background: rgba(27, 49, 94, 0.9);
+    background: #484848;
     transition: 0.3s;
     z-index: 999;
 }
@@ -813,7 +813,7 @@ section {
     left: 15px;
     padding: 10px 0;
     border-radius: 10px;
-    background-color: #fff;
+    background-color: #6b6b6b;
     overflow-y: auto;
     transition: 0.3s;
 }
@@ -821,13 +821,13 @@ section {
 .navbar-mobile a {
     padding: 10px 20px;
     font-size: 15px;
-    color: #101c36;
+    color: #ffffff;
 }
 
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-    color: #2d71a1;
+    color: #68bbf5;
 }
 
 .navbar-mobile .dropdown ul {
